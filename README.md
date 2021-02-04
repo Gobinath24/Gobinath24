@@ -5,8 +5,8 @@
 I'm Gobinath from India, and I do content on Design and Development. I really enjoy learning languages and frameworks like React, as well as work in Figma. I also enjoy wireframing the thig that need to be built.
 
 ## Skills and Experience:
-💻 HTML, CSS, Javascript
-⚛ React
+*💻 HTML, CSS, Javascript
+*⚛ React
 
 REACT / JS / HTML / CSS
 
