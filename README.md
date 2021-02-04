@@ -9,11 +9,9 @@ I'm Gobinath from India, and I do content on Design and Development. I really en
 
 ⚛ React
 
-REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning react hooks. 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning react hooks.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Gobinath24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gobinath-v-4103201a8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Gobinath_VB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://gobinathportfolio.netlify.app/)
