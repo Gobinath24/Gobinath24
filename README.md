@@ -10,7 +10,7 @@ I'm Gobinath from India, and I do content on Design and Development. I really en
 ⚛ React
 
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on to improve my skills
 - 🌱 I’m currently learning react hooks.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
