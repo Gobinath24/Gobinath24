@@ -5,7 +5,7 @@
 I'm Gobinath from India, and I do content Development. I really enjoy learning languages and frameworks like React. I also enjoy building real world Application.
 
 ## Skills and Experience:
-💻 HTML, CSS, Javascript
+💻 HTML, CSS, Javascript, React
 
 ⚛ React
 
